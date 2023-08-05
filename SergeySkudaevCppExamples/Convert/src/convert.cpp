@@ -13,7 +13,7 @@ int main(int argc, char* argv[])
 	std::cout << "\nPlease enter a mass in pounds (lbs):";
 	std::cin >> lb;
 
-	c = 0.454;
+	c = 0.45359237;
 	kg = c * lb;
 
 	std::cout << lb << "lb = " << kg << "kg " << std::endl;
