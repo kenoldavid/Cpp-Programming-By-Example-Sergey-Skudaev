@@ -10,7 +10,7 @@ int main(int argc, char* argv[])
 	double c;
 
 	std::cout << "Converting Pounds to Kilograms" << std::endl;
-	std::cout << "\nPlease enter a mass in pounds (lbs):";
+	std::cout << "\nPlease enter a mass in pounds (lbs): ";
 	std::cin >> lb;
 
 	c = 0.45359237;
