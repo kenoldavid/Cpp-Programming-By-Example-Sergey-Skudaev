@@ -15,10 +15,10 @@ void DrawTree()
 void DrawCar()
 {
 	printf("	\n");
-	printf("  _______ \n");
-	printf("___ /_|_|__)_\n");
-	printf("<_____________}\n");
-	printf(" ()        () \n");
+	printf("     _______ \n");
+	printf(" ___ /_|_|___)_\n");
+	printf("<______________}\n");
+	printf("  ()        () \n");
 	printf("       \n");
 	printf("       \n");
 }
